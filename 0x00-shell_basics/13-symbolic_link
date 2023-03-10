@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -sf __ls__ /bin/lsi
+ln -sf  /bin/lsi __ls__
