@@ -1,0 +1,15 @@
+total 40
+drwxr-xr-x 2 root root 247 Mar 14 06:20 .
+drwxr-xr-x 6 root root 121 Mar 13 15:01 ..
+-rwxr--r-- 1 root root  30 Mar 13 15:20 0-hello_world
+-rwxr--r-- 1 root root  27 Mar 13 15:34 1-confused_smiley
+-rwxr--r-- 1 root root  31 Mar 13 15:37 2-hellofile
+-rwxr--r-- 1 root root  41 Mar 14 04:24 3-twofiles
+-rwxr--r-- 1 root root  42 Mar 14 04:31 4-lastlines
+-rwxr--r-- 1 root root  42 Mar 14 04:34 5-firstlines
+-rwxr--r-- 1 root root  36 Mar 14 04:55 6-third_line
+-rwxr--r-- 1 root root  73 Mar 14 05:50 7-file
+-rwxr--r-- 1 root root  40 Mar 14 06:20 8-cwd_state
+-rw-r--r-- 1 root root   0 Mar 14 05:21 \*\'Best
+-rw-r--r-- 1 root root  45 Mar 13 15:02 README.md
+-rw-r--r-- 1 root root   0 Mar 14 05:21 School\'\*$\?\*\*\*\*\*:)
